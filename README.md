@@ -80,10 +80,10 @@ Passionate about turning ideas into elegant digital experiences.
 ## ✦ Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankushxjamuar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ankush.jamuar@gmail.com">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
