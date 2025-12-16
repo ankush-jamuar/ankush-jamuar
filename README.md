@@ -58,8 +58,8 @@ Passionate about turning ideas into elegant digital experiences.
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushjamuar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushjamuar&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushxjamuar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushxjamuar&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
