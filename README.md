@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,100:EC4899" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:6366F1,100:EC4899" />
 </p>
 
 ## ✨ About Me
@@ -26,7 +26,7 @@ Passionate about turning ideas into elegant digital experiences.
 - 🌱 Always learning, always building
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:EC4899,100:22D3EE" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:EC4899,100:22D3EE" />
 </p>
 
 ## ✦ Tech Stack & Skills
@@ -52,29 +52,62 @@ Passionate about turning ideas into elegant digital experiences.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,100:A78BFA" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:22D3EE,100:A78BFA" />
+</p>
+
+## ✦ Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush-jamuar&repo=Traveleo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush-jamuar&repo=Luma&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush-jamuar&repo=AquaSave&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush-jamuar&repo=ecosystemAtRisk&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:A78BFA,100:6366F1" />
 </p>
 
 ## ✦ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankush-jamuar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankush-jamuar&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ankush-jamuar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-jamuar&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:A78BFA,100:6366F1" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:6366F1,100:EC4899" />
 </p>
 
-## ✦ Currently Working On
-
-- 🚀 Full-stack projects with React & Node.js  
-- 🎯 Responsive, pixel-perfect UI designs  
-- 🔐 Authentication & OTP-based systems  
-- 📈 Improving performance & scalability  
+## ✦ Contribution Activity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,100:EC4899" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ankush-jamuar&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:22D3EE,100:EC4899" />
+</p>
+
+## ✦ Contribution Animation
+
+<p align="center">
+  <img src="https://github.com/ankush-jamuar/ankush-jamuar/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:6366F1,100:EC4899" />
 </p>
 
 ## ✦ Let’s Connect
@@ -83,7 +116,7 @@ Passionate about turning ideas into elegant digital experiences.
   <a href="https://www.linkedin.com/in/ankushxjamuar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:ankush.jamuar@gmail.com">
+  <a href="mailto:ankush.jamuar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
