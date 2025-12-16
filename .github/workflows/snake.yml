@@ -12,10 +12,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (neon theme)
         uses: Platane/snk@v3
         with:
           github_user_name: ankush-jamuar
+
+          # Neon dark-luxury colors
+          color_snake: "#8B5CF6"        # Neon purple snake
+          color_dots: "#22D3EE,#A78BFA,#EC4899,#6366F1"  # Cyan, violet, pink, indigo
+          color_background: "transparent"
+
           outputs: |
             dist/github-contribution-grid-snake.svg
 
