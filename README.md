@@ -1,27 +1,68 @@
-# 💫 About Me:
-👋 Hi, I’m Ankush Jamuar  <br>💻 B.Tech student passionate about software development, and problem-solving.  <br>🌱 Currently learning full-stack development with Node.js and React.js.  <br>🚀 I enjoy building projects that combine design and technology to create real impact.  <br>📫 Reach me at: https://www.linkedin.com/in/ankushxjamuar/<br>
+<!-- ====================== HEADER ====================== -->
 
+<h1 align="center">
+  Ankush Jamuar
+</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ankush Jamuar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankush_jamuar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankush Jamuar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ankush) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankush_jamuar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankush.jamuar@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;UI%2FUX+Focused+Engineer;Building+Clean+%26+Scalable+Products" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankush-jamuar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankush-jamuar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-jamuar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankush-jamuar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ankush-jamuar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <em>Minimal code. Maximum impact.</em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ankush-jamuar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ====================== ANIMATED DIVIDER ====================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,100:EC4899" />
+</p>
+
+<!-- ====================== ABOUT ====================== -->
+
+### ✦ About Me
+
+```txt
+I design and develop modern web applications with a strong focus on
+clean UI, smooth UX, and scalable backend systems.
+
+Passionate about turning ideas into elegant digital experiences.
+💻 Full-Stack Developer (Frontend-leaning)
+
+🎨 UI/UX & Design-driven development
+
+⚙️ Backend APIs, Databases & Auth systems
+
+🤖 Exploring AI/ML alongside web technologies
+
+🌱 Always learning, always building
+
+<!-- ====================== ANIMATED DIVIDER ====================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:EC4899,100:22D3EE" /> </p> <!-- ====================== SKILLS ====================== -->
+✦ Tech Stack & Skills
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+Database
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql" /> </p>
+Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
+<!-- ====================== ANIMATED DIVIDER ====================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,100:A78BFA" /> </p> <!-- ====================== STATS ====================== -->
+✦ GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankushjamuar&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushjamuar&theme=tokyonight&hide_border=true" height="165" /> </p>
+<!-- ====================== CURRENT WORK ====================== -->
+✦ Currently Working On
+🚀 Full-stack projects with React & Node.js
+
+🎯 Responsive, pixel-perfect UI designs
+
+🔐 Authentication & OTP-based systems
+
+📈 Improving performance & scalability
+
+<!-- ====================== ANIMATED DIVIDER ====================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:A78BFA,100:6366F1" /> </p> <!-- ====================== CONNECT ====================== -->
+✦ Let’s Connect
+<p align="center"> <a href="https://www.linkedin.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" /> </a> </p>
+<p align="center"> <sub>Designed with 🖤 • Built with passion • Powered by curiosity</sub> </p> ```
