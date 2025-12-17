@@ -1,7 +1,7 @@
 <h1 align="center">Ankush Jamuar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;UI%2FUX+Focused+Engineer;Building+Clean+%26+Scalable+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;UI%2FUX+Focused+Engineer;Android+Developer;Building+Clean+%26+Scalable+Products" />
 </p>
 
 <p align="center">
@@ -14,13 +14,14 @@
 
 ## ✨ About Me
 
-I design and develop modern web applications with a strong focus on  
+I design and develop modern web and mobile applications with a strong focus on  
 clean UI, smooth UX, and scalable backend systems.
 
 Passionate about turning ideas into elegant digital experiences.
 
 - 💻 Full-Stack Developer (Frontend-leaning)
 - 🎨 UI/UX & Design-driven development
+- 📱 Android Development with Kotlin & Jetpack Compose
 - ⚙️ Backend APIs, Databases & Auth systems
 - 🤖 Exploring AI/ML alongside web technologies
 - 🌱 Always learning, always building
@@ -31,9 +32,14 @@ Passionate about turning ideas into elegant digital experiences.
 
 ## ✦ Tech Stack & Skills
 
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,kotlin,cpp" />
+</p>
+
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### Backend
@@ -41,9 +47,14 @@ Passionate about turning ideas into elegant digital experiences.
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,jetpackcompose" />
+</p>
+
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ### Tools & Platforms
